@@ -16,3 +16,11 @@ height: 100%;
  {
   font-family: "Times New Roman", Times, serif;
 }
+
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
