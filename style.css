@@ -4,11 +4,11 @@ margin: 0;
 
 padding: 0;
 
-font-family: "Times New Roman", Times, serif;
+font-family: "Avenir";
 
 }
 body { 
-background-image: url("thumb-1920-528244.jpg"); 
+background-image: url("https://pixabay.com/get/53e4d54b4b50b108feda8460da2932761c3cd9e35a5879_1920.jpg?attachment="); 
 background-size: cover; 
 height: 100%;
 }
